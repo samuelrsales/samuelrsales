@@ -26,19 +26,13 @@ Criação, estruturação e desenvolvimento de produtos digitais, visão de prod
 
 ## Principais tecnologias que utilizo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,react,nextjs,tailwind,postman,vercel,supabase,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,react,nextjs,tailwind,postman,vercel,supabase,html,css,figma" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Evidence-000000?style=for-the-badge&logoColor=white" />
-</p>
-
-## Outras ferramentas que trabalho
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" />
 </p>
 
 ---
