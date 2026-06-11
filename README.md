@@ -5,7 +5,7 @@
 
 Sou um profissional com mais de **7 anos de experiência no mundo digital**, atuando em diferentes frentes como **e-commerce, marketplaces, infoprodutos e SaaS**.
 
-Além da parte técnica, trago para meus projetos **visão de negócio, produto e operação**, conectando tecnologia com geração de resultado real para empresas.
+Além da parte técnica, trago para meus projetos **visão de negócio e produto**, conectando tecnologia com geração de resultado real para empresas.
 
 ## O que eu faço
 
